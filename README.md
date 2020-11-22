@@ -7,6 +7,7 @@ web design section
   <li>HTML</li>
    <li>CSS</li>Java Script <li>Jquery</li> <li>Bootstrap</li>
 </ul>
+<hr><hr>
 <ul>
   <li>Photoshop</li>
   <li>illustrator</li>
