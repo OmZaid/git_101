@@ -21,6 +21,9 @@ i work on
 programming
 <ul>
   <li>visual basic for application</li>
-  <liC programming</li>
+  <li>C programming</li>
    <li>C++ programming</li>
    <li>MATLAB</li>
+  <hr>
+  <b><mark>here is some websites i design and programming </mark></b>
+  <a href="></a>
