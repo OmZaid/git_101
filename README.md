@@ -8,9 +8,17 @@ web design section
    <li>CSS</li>Java Script <li>Jquery</li> <li>Bootstrap</li>
 </ul>
 <hr><hr>
+i work on
+graphic design section
 <ul>
   <li>Photoshop</li>
   <li>illustrator</li>
   <li>indesign</li>
   <li>aftereffect</li><li>premier</li>
   </ul>
+<hr><hr>
+i work on
+programming
+<ul>
+  <li>visual basic for application</li>
+  <li>illustrator</li>
