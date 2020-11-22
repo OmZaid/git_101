@@ -21,4 +21,6 @@ i work on
 programming
 <ul>
   <li>visual basic for application</li>
-  <li>illustrator</li>
+  <liC programming</li>
+   <li>C++ programming</li>
+   <li>MATLAB</li>
